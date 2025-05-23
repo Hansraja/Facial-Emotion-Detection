@@ -2,7 +2,7 @@
 
 This project implements a facial emotion detection system using deep convolutional neural networks (CNNs) trained on the FER-2013 dataset. It classifies human facial expressions into five categories: **Angry**, **Happy**, **Sad**, **Surprise**, and **Neutral**.
 
-![emotion-detection](https://user-images.githubusercontent.com/your-username/your-emotion-image.png) <!-- Optional: Add a sample result image -->
+
 
 ## 🚀 Project Overview
 
